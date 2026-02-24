@@ -62,20 +62,21 @@ This project follows a structured analytics pipeline:
 ## 🛠️ Tools & Technologies Used
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **SQL** (MySQL / PostgreSQL / SQL Server)
+- **SQL** ( SQL Server)
 - **Power BI**
-- **Jupyter Notebook**
+- **Google colab**
 - **Git & GitHub**
 
 ---
 
 ## 📂 Project Structure
 📦 Customer-Behavior-Analysis
-┣ ** 📜 Customer_Shopping_Behavior_Analysis.ipynb**
-┣ **📜 customer_behavior_sql_queries.sql**
-┣ **📊 customer_behavior_dashboard.pbix**
-┣ **📄 Project_Report.pdf**
-┗ **📘 README.md**
+
+- ** 📜 Customer_Shopping_Behavior_Analysis.ipynb**
+- **📜 customer_behavior_sql_queries.sql**
+- **📊 customer_behavior_dashboard.pbix**
+- **📄 Project_Report.pdf**
+- **📘 README.md**
 
 
 ---
@@ -85,67 +86,67 @@ This project follows a structured analytics pipeline:
 ### Step 1: Clone the Repository
 
 
-git clone https://github.com/AnushkaAchavan/customer-trends-data-analysis
+-git clone https://github.com/AnushkaAchavan/customer-trends-data-analysis
 
 ### Step 2: Run Python Notebook
 
-**Open Customer_Shopping_Behavior_Analysis.ipynb**
+-**Open Customer_Shopping_Behavior_Analysis.ipynb**
 
-**Perform data cleaning & EDA**
+-**Perform data cleaning & EDA**
 
-**Load processed data into SQL database**
+-**Load processed data into SQL database**
 
 ### Step 3: Execute SQL Queries
 
-**Create a database in SQL**
+-**Create a database in SQL**
 
-**Import cleaned dataset**
+-**Import cleaned dataset**
 
-**Run queries from customer_behavior_sql_queries.sql**
+-**Run queries from customer_behavior_sql_queries.sql**
 
 ### Step 4: Open Power BI Dashboard
 
-**Open customer_behavior_dashboard.pbix**
+-**Open customer_behavior_dashboard.pbix**
 
 **Connect to your SQL database**
 
-**Explore the interactive dashboard**
+-**Explore the interactive dashboard**
 
-##📊 Key Insights Generated
+## 📊 Key Insights Generated
 
-**Customer segmentation based on spending behavior
+-**Customer segmentation based on spending behavior**
 
-Identification of high-value customers
+-**Identification of high-value customers**
 
-Revenue contribution by product category
+-**Revenue contribution by product category**
 
-Seasonal purchase patterns
+-**Seasonal purchase patterns**
 
-Customer loyalty analysis**
+-**Customer loyalty analysis**
 
-##📈 Business Impact
+## 📈 Business Impact
 
-**This project demonstrates how structured data analysis can:**
+-**This project demonstrates how structured data analysis can:**
 
-**Improve marketing strategies**
+-**Improve marketing strategies**
 
-**Optimize product offerings**
+-**Optimize product offerings**
 
-**Increase customer retention**
+-**Increase customer retention**
 
-**Drive revenue growth**
+-**Drive revenue growth**
 
-**Support executive decision-making**
+-**Support executive decision-making**
 
-##🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated
 
-**✔ End-to-End Data Analytics Workflow**
-**✔ Data Cleaning & Exploratory Analysis**
-**✔ SQL Query Writing & Optimization**
-**✔ Data Visualization & Dashboarding**
-**✔ Business Insight Generation**
-**✔ Professional Documentation**
+-**End-to-End Data Analytics Workflow**
+-**Data Cleaning & Exploratory Analysis**
+-**SQL Query Writing & Optimization**
+-**Data Visualization & Dashboarding**
+-**Business Insight Generation**
+-**Professional Documentation**
 
-##📜 License
+## 📜 License
 
 This project is created for educational and portfolio purposes.
