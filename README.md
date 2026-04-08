@@ -72,7 +72,7 @@ This project follows a structured analytics pipeline:
 ## 📂 Project Structure
 📦 Customer-Behavior-Analysis
 
-- ** 📜 Customer_Shopping_Behavior_Analysis.ipynb**
+- **📜 Customer_Shopping_Behavior_Analysis.ipynb**
 - **📜 customer_behavior_sql_queries.sql**
 - **📊 customer_behavior_dashboard.pbix**
 - **📄 Project_Report.pdf**
